@@ -2,8 +2,8 @@
 
 int main(void) 
 {
-    int target; = 0;   // 목푯값
-    int guess;  = 0; //추측값
+    int target;   // 목푯값
+    int guess;  //추측값
     int count = 0; //시도횟수
 
   
