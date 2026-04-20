@@ -22,7 +22,7 @@ int main(void)
 
 } while (guess != target);             //정답을 맞출때까지 반복
 
-printf("%d회\n", count);               //총 시도 횟수 출력
+printf("%d\n", count);               //총 시도 횟수 출력
 
     return 0;
 }
