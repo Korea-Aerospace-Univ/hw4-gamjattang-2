@@ -10,7 +10,7 @@ int main(void)
     scanf("%d", &target); //정답 입력
 
    do {
-    scanf("%d", &guess);
+    scanf("%d", &guess);    //추측값 입력
     count++;
 
     if (guess > target)
